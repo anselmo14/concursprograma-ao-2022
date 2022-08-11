@@ -1,1 +1,27 @@
-# concursoprograma-ao-2022
+<!doctypehtml>
+<head>
+<title>minha pagina</title>
+</head>
+
+<body bgcolor = "#FFE4E1">
+
+<font face = "verdana" size=6 color="#B22222"">
+Bem vindos a <small> disciplina  </small> de <big><u>matemática:</u></big> RELAÇÃO TRIGONOMÉTRICA.
+</font>
+<h1>SENO</h1>
+<h2>catesto oposto / hipotenusa</h2>
+<h1></h1>
+
+<h1>COSSENO</h1>
+<h2>cateto adjacente / hipotenusa</h2>
+<h1></h1>
+
+<h1>TANGENTE</h1>
+<h2>cateto oposto / cateto adjacente</h2>
+<h1></h1>
+
+
+<h5><i>PROFESSOR AMODU</i></h5>
+
+<html>
+
